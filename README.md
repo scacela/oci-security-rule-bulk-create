@@ -6,13 +6,13 @@
 
 2. Set up your OCI config file using the instructions provided [here](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdkconfig.htm#SDK_and_CLI_Configuration_File).
 
-3. Install pandas:
+3. Install `pandas`:
 ```
      sudo pip3 install pandas
 ```
-4. Format your CIDR ranges into a single column without a header in a .csv file, as in [this example](cidrs_demo.csv).
+4. Format your CIDR ranges into a single column without a header in a `.csv` file, as in [this example](cidrs_demo.csv).
 
-5. Assign your own variables in config.py
+5. Assign your own variables in `config.py`.
 
 6. Bulk create Security Rules in your OCI environment with:
 ```
