@@ -12,7 +12,7 @@
 ```
 4. Format your CIDR ranges into a single column without a header in a `.csv` file, as in [this example](cidrs_demo.csv).
 
-5. Assign your own variables in `config.py`.
+5. Assign your own values in `config.py`.
 
 6. Bulk create Security Rules in your OCI environment with:
 ```
