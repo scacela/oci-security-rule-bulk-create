@@ -14,7 +14,7 @@
 
 5. Replace the placeholder values with your own in `config.py`.
 
-6. Bulk create Security Rules in your OCI environment with:
+6. Bulk-create Security Rules in your OCI environment with:
 ```
      python3 main.py
 ```
